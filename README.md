@@ -24,3 +24,7 @@ This repository contains the following data structures, developed using C/C++ la
 <br/>
 The comments were written in Portuguese - Brazil.
 <br/>
+
+# Contact - Contato
+Found an error? Message me! <br/>
+Encontrou algum erro? Me contate! <br/>
