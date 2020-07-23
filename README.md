@@ -11,6 +11,7 @@ Este repositório contém as seguintes estruturas de dados desenvolvidas na Ling
 5. Lista LIFO (Last in, first out).<br/>
 <br/>
 Os comentários estão escritos em PT-BR.<br/>
+Alguns dos algoritmos-base para manipulação das estruturas de dados foram desenvolvidos em sala de aula.
 <br/><br/>
 
 # EN-US About
@@ -22,8 +23,8 @@ This repository contains the following data structures, developed using C/C++ la
 4. FIFO (First in, first out) Linked list w/ Priority,<br/>
 5. LIFO (Last in, first out) Linked list.<br/>
 <br/>
-The comments were written in Portuguese - Brazil.
-<br/>
+The comments were written in Portuguese - Brazil.<br/>
+Some of the base data structures algorithms were developed while in classroom. <br/><br/>
 
 # Contact - Contato
 Found an error? Message me! <br/>
