@@ -26,6 +26,3 @@ This repository contains the following data structures, developed using C/C++ la
 The comments were written in Portuguese - Brazil.<br/>
 Some of the base data structures algorithms were developed while in classroom. <br/><br/>
 
-# Contact - Contato
-Found an error? Message me! <br/>
-Encontrou algum erro? Me contate! <br/>
