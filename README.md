@@ -1,11 +1,9 @@
 # Data Structures - Pt. 2: Linked Lists
-<br/><br/>
-
-# Related Links
+## Related Links
 **PT 1 {Stacks, Queues}:** https://github.com/GFBionde/data-structures-pt1 
 <br/>**PT 3{Generalized Lists, Trees}:** https://github.com/GFBionde/data-structures-pt3
 
-# EN-US About
+## EN-US About
 This repository contains the following data structures, developed using C/C++ language and dynamic memory allocation/pointers:
 <br/>
 1. Linked list,<br/>
@@ -17,7 +15,7 @@ This repository contains the following data structures, developed using C/C++ la
 The comments were written in Portuguese - Brazil.<br/>
 Some of the base data structures algorithms were developed while in classroom. <br/><br/>
 
-# PT-BR Sobre 
+## PT-BR Sobre 
 Este repositório contém as seguintes estruturas de dados desenvolvidas na Linguagem C/C++, utilizando alocação dinâmica & ponteiros:
 <br/> 
 1. Lista simplesmente encadeada, <br/> 
